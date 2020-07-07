@@ -1,4 +1,4 @@
-# coursera-Applied-Data-Science-with-Python
+# Coursera-Applied-Data-Science-with-Python
 
 <IMG SRC='https://raw.githubusercontent.com/Pankaj-Ra/Applied-Data-Science-With-Python/master/Cover%20Image.png' width=60% height=30%><P>
   
@@ -8,7 +8,8 @@
 
     Text Mining
     Python Programming
-    PandasMatplotlib
+    Pandas
+    Matplotlib
     NumpyData Cleansing
     Data Virtualization
     Data Visualization (DataViz)
